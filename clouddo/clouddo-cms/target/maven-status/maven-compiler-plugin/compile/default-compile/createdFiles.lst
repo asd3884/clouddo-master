@@ -1,0 +1,11 @@
+com\bootdo\clouddocms\config\WebConfig.class
+com\bootdo\clouddocms\config\AuthConfig.class
+com\bootdo\clouddocms\service\impl\FileServiceImpl.class
+com\bootdo\clouddocms\ClouddoCmsApplication.class
+com\bootdo\clouddocms\controller\FileController.class
+com\bootdo\clouddocms\service\FileService.class
+com\bootdo\clouddocms\dto\FileDTO.class
+com\bootdo\clouddocms\controller\FileController$1.class
+com\bootdo\clouddocms\dto\convert\FileConvert.class
+com\bootdo\clouddocms\dao\FileDao.class
+com\bootdo\clouddocms\domain\FileDO.class

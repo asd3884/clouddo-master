@@ -1,0 +1,7 @@
+com\bootdo\clouddobase\ClouddoBaseApplication.class
+com\bootdo\clouddobase\dao\LogDao.class
+com\bootdo\clouddobase\service\impl\LogServiceImpl.class
+com\bootdo\clouddobase\service\LogService.class
+com\bootdo\clouddobase\config\ResourceServerConfig.class
+com\bootdo\clouddobase\controller\LogController.class
+com\bootdo\clouddobase\controller\UserController.class
